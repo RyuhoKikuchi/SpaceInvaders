@@ -14,6 +14,7 @@
 
 * 🛸 = 100
 
+## DESCRIPTION
 
 I reproduced the famous console game known as "SPACE INVADERS” on CLI because
 I was too lazy to learn a usage of GUI libraries.
