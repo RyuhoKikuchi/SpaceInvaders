@@ -1,13 +1,19 @@
 # SPACE INVADERS
 
 CONTROL
+
   Right and Left arrow keys - Move
+
   Space and Up arrow keys   - Laser
+
   Ctrl-C                    - Quit
 
 SCORE
+
   👾 = 20 \n
+
   🛸 = 100
+
 
 I reproduced the famous console game known as "SPACE INVADERS” on CLI because
 I was too lazy to learn a usage of GUI libraries.
