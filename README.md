@@ -2,9 +2,9 @@
 
 ## CONTROL
 
-* Right and Left arrow keys - Move
+* Right or Left arrow keys - Move
 
-* Space and Up arrow keys   - Laser
+* Space or Up arrow keys   - Laser
 
 * Ctrl-C                    - Quit
 
