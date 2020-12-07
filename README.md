@@ -1,5 +1,7 @@
 # SPACE INVADERS
 
+https://github.com/RyuhoKikuchi/space_invaders/issues/1
+
 ## CONTROL
 
 * Right or Left arrow keys - Move
