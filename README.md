@@ -1,7 +1,7 @@
 # SPACE INVADERS
 
 ![D3E7FEB4-E7EB-4114-8104-A880107B9D68](https://user-images.githubusercontent.com/60661447/101416245-46475400-389e-11eb-9104-7d3511502787.gif)
-https://github.com/RyuhoKikuchi/space_invaders/issues/4#issue-1145453730
+![gamePlay](https://user-images.githubusercontent.com/60661447/154917683-0564230b-bf97-4d35-8249-d65df043674d.gif)
 ![7B15DEFD-BB32-4950-AAB6-B7B11158331C](https://user-images.githubusercontent.com/60661447/101416676-32502200-389f-11eb-8d97-1e76d3d9ee75.gif)
 
 
